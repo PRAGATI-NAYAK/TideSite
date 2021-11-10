@@ -1,0 +1,4 @@
+19:30:05.771 [main] INFO  testrunner.TideApplication - Yes there is an Antibacterial Product
+19:31:20.866 [main] INFO  testrunner.TideApplication - navigated to home page
+19:31:22.806 [main] INFO  testrunner.TideApplication - it has tide free and gentle powder
+19:31:39.378 [main] INFO  testrunner.TideApplication - yes correct  it displays how to read laundary symbols
